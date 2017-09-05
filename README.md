@@ -6,6 +6,8 @@
  
 * For backend go to: [python station backend]
 
+* Read about the building process at my [blog]!
+
 
 
 ## How was it build?
@@ -34,4 +36,5 @@ MIT - **Free Software, Hell Yeah!**
    [vue bootstrap]: <https://bootstrap-vue.js.org/>
    [python station backend]: <https://github.com/itielshwartz/python-station-backend>
    [github pages]: <http://blog.toast38coza.me/documenting-your-vuejs-project-with-github-pages/>
+   [blog]: <http://etlsh.com/2017/09/04/scraping-planet-python-and-getting-the-history-of-python-blogs-and-projects/>
 

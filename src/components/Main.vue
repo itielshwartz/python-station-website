@@ -19,7 +19,7 @@
         </b-popover>
 
         <b-nav-item href="https://github.com/itielshwartz/python-station" target="_blank">Backend</b-nav-item>
-        <b-nav-item href="http://etlsh.com/2017/08/19/scraping-planet-python-and-getting-the-history-of-python-blogs-and-projects/" target="_blank">Building process</b-nav-item>
+        <b-nav-item href="http://etlsh.com/2017/09/04/scraping-planet-python-and-getting-the-history-of-python-blogs-and-projects/" target="_blank">Building process</b-nav-item>
       </b-nav>
 
     </b-navbar>
